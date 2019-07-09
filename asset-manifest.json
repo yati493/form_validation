@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/validate-learn/static/css/main.78dc13e3.chunk.css",
-    "main.js": "/validate-learn/static/js/main.27ae0206.chunk.js",
-    "main.js.map": "/validate-learn/static/js/main.27ae0206.chunk.js.map",
-    "runtime~main.js": "/validate-learn/static/js/runtime~main.44871638.js",
-    "runtime~main.js.map": "/validate-learn/static/js/runtime~main.44871638.js.map",
-    "static/js/2.addccc62.chunk.js": "/validate-learn/static/js/2.addccc62.chunk.js",
-    "static/js/2.addccc62.chunk.js.map": "/validate-learn/static/js/2.addccc62.chunk.js.map",
-    "index.html": "/validate-learn/index.html",
-    "precache-manifest.1ff57ab0d70de3e0f13e4364661a0998.js": "/validate-learn/precache-manifest.1ff57ab0d70de3e0f13e4364661a0998.js",
-    "service-worker.js": "/validate-learn/service-worker.js",
-    "static/css/main.78dc13e3.chunk.css.map": "/validate-learn/static/css/main.78dc13e3.chunk.css.map"
+    "main.css": "/form_validation/static/css/main.78dc13e3.chunk.css",
+    "main.js": "/form_validation/static/js/main.449f23e1.chunk.js",
+    "main.js.map": "/form_validation/static/js/main.449f23e1.chunk.js.map",
+    "runtime~main.js": "/form_validation/static/js/runtime~main.67bd935c.js",
+    "runtime~main.js.map": "/form_validation/static/js/runtime~main.67bd935c.js.map",
+    "static/js/2.addccc62.chunk.js": "/form_validation/static/js/2.addccc62.chunk.js",
+    "static/js/2.addccc62.chunk.js.map": "/form_validation/static/js/2.addccc62.chunk.js.map",
+    "index.html": "/form_validation/index.html",
+    "precache-manifest.f35770394e16fbc2256ec826ffb42041.js": "/form_validation/precache-manifest.f35770394e16fbc2256ec826ffb42041.js",
+    "service-worker.js": "/form_validation/service-worker.js",
+    "static/css/main.78dc13e3.chunk.css.map": "/form_validation/static/css/main.78dc13e3.chunk.css.map"
   }
 }
